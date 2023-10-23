@@ -1,7 +1,10 @@
 # stm_app.py
 Data Info:
-Problem Statement
 
+Project prepared by: Diaa Aldein Alsayed Ibrahim Osman
+Prepared for: Epsilon AI Institute
+
+Problem Statement:
 We have a advertising dataset of a marketing agency. Goal is to develop a ML algorithm that predicts if a particular user will click on an advertisement. The dataset has 10 features:
 
 'Daily Time Spent on Site', 'Age', 'Area Income', 'Daily Internet Usage', 'Ad Topic Line', 'City', 'Male', 'Country', Timestamp' 'Clicked on Ad'.
