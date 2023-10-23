@@ -8,6 +8,8 @@ st.title("Click on Ads advertising ML Model")
 
 st.header('Data Info: ')
 st.info('''Problem Statement\n
+Project prepared by: Diaa Aldein Alsayed Ibrahim Osman\n
+Prepared for: Epsilon AI Institute\n
 We have a advertising dataset of a marketing agency. Goal is to develop a ML algorithm that predicts if a particular user will click on an advertisement. The dataset has 10 features:
 \n
 'Daily Time Spent on Site', 'Age', 'Area Income', 'Daily Internet Usage', 'Ad Topic Line', 'City', 'Male', 'Country', Timestamp' 'Clicked on Ad'.
